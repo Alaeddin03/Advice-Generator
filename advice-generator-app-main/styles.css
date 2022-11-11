@@ -8,9 +8,6 @@
     --Dark_Blue: hsl(218, 23%, 16%);
 }
 
-
-
-
 *{
     box-sizing: border-box;
     margin: 0;
@@ -109,7 +106,7 @@ body{
         -moz-transform: rotate(405deg);
         -ms-transform: rotate(405deg);
         -o-transform: rotate(405deg);
-}
+    }
 
     100%{
         transform: rotate(360deg);
@@ -117,5 +114,5 @@ body{
         -moz-transform: rotate(360deg);
         -ms-transform: rotate(360deg);
         -o-transform: rotate(360deg);
-}
+    }
 }
